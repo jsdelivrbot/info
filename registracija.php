@@ -22,7 +22,7 @@ die();
     <body>
         <div class="screen">
             <div class="container">
-        	<br><h1>Dobrodošli na straneh DINFO<img src="slike/Salviae3g.png" width=""> </h1><br><br><br>
+        	<br><h1>Dobrodošli na straneh DINFO<img src="Dilogo_transparent.png" style="width: 5vw; padding-top:1vw; padding-left:1vw;"> </h1><br><br><br>
         	<?php
             
 require_once('baza.php');
